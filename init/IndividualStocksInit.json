@@ -1,0 +1,22 @@
+{
+    "name": "Nick",
+    "prefix": "%",
+    "stocks":[
+        {   
+            "stock": "IEC",
+            "indexes": ["XLK", "XSD"]
+        },
+        {
+            "stock": "ENDP",
+            "indexes": ["XPH", "XLV"]
+        },
+        {
+            "stock": "TEN",
+            "indexes": ["XLY", "XRT", "XLI"]
+        },
+        {
+            "stock": "HOFT",
+            "indexes": ["XLY", "XRT"]
+        }
+    ]
+}
