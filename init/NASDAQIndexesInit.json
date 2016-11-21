@@ -1,0 +1,4 @@
+{
+    "name": "Nick",
+    "indexes": ["^ABAQ","^INDU","^TRAN", "^UTIL", "^BKX"]
+}

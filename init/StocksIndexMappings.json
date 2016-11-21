@@ -1,0 +1,33 @@
+{
+    "name": "Nick",
+    "mappings" : [
+        {
+            "description": "Technology Select Sector SPDR® Fund",
+            "index": "XLK",
+            "stocks": ["IEC"]
+        },
+        {
+            "description": "SPDR® S&P® Pharmaceuticals ETF",
+            "index": "XPH",
+            "stocks": ["ENDP"]
+        },
+        {
+            "description": "Health Care Select Sector SPDR® Fund",
+            "index": "XLV",
+            "stocks": ["ENDP"]
+        },
+        {
+            "description": "Consumer Discretionary Select Sector SPDR® Fund",
+            "index": "XLY",
+            "stocks": ["TEN", "LEA"]
+        },
+        {
+            "description": "SPDR® S&P® Semiconductor ETF",
+            "index": "XSD",
+            "stocks": ["IEC"]
+        }
+    ]
+    
+    
+    
+}
